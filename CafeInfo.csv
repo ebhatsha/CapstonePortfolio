@@ -1,0 +1,98 @@
+name,city,rating,review_count,price,address,latitude,longitude,categories,is_closed,url,Visit_Type,$$/hour_GenAdmission,successful_or_not
+Kitty Kisses Cat Cafe,Reno,4.2,64,,"8555 Double R Blvd, Ste 104, Reno, NV 89511",39.46085,-119.76432,Themed Cafes,FALSE,https://kittykissescatcafe.com/book-your-visit/,Appointment,15,0
+Catelowna Cat Cafe,Kelowna,5,1,,"1441 Ellis Street, Suite 201, Kelowna, BC V1Y 2A3, Canada",49.887979,-119.493163,Themed Cafes,FALSE,https://catelowna.com/book-a-visit,Appointment,16,1
+Mr. Kitty's Cat Cafe & Boutique,Eau Claire,5,2,,"502 S Farwell St, Eau Claire, WI 54701",44.809602,-91.497035,"Themed Cafes, Pet Adoption, Coffee & Tea",FALSE,https://mrkittyscatcafe.as.me/schedule/ddc5358d,Appointment,12.66,1
+Aristocat Cafe,Harrisonburg,4.9,11,,"111 N Liberty St, Harrisonburg, VA 22802",38.45094,-78.8704,"Coffee & Tea, Cafes, Pet Adoption",FALSE,https://www.aristocat.cafe/reservations,Appointment,15,1
+Rescued Treasures Cat Cafe,Las Vegas,4.6,58,,"4155 N Rancho Dr, Ste 150, Las Vegas, NV 89130",36.23561,-115.23063,"Pet Adoption, Animal Shelters, Themed Cafes",FALSE,https://palnv.org/,Appointment,12,1
+Mount Purrnon Cat Cafe and  Wine Bar,Alexandria,4.4,64,$$,"109 S Alfred St, Alexandria, VA 22314",38.804887,-77.049491,"Pet Adoption, Coffee & Tea, Wine Bars",FALSE,https://www.mtpurrnoncatcafe.com/events,Appointment,40,1
+Felius Cat CafÃÂ© & Rescue,Omaha,4.3,42,,"5015 Dodge St, Ste 101, Omaha, NE 68132",41.25946867334697,-95.99112746,"Pet Adoption, Coffee & Tea, Community Service/Non-Profit",FALSE,https://felius.org/reservations,Appointment,19.26,1
+Kitty Kingdom Cat Cafe,Chesapeake,4.1,18,,"565 Cedar Rd, Ste 12, Chesapeake, VA 23322",36.71195,-76.2559,"Pet Adoption, Cafes, Coffee & Tea",FALSE,https://kittykingdomcatcafe.wpcomstaging.com/,Appointment,17,0
+DeLand Cat Cafe,DeLand,5,13,,"844 E New York Ave, Unit B, DeLand, FL 32724",29.027898422341668,-81.2865728,"Themed Cafes, Coffee Roasteries",FALSE,https://www.delandcatcafe.com/reservations,Appointment,11.71,1
+Constellation Cat Cafe,East Lansing,4.7,15,,"3320 E Lake Lansing Rd, East Lansing, MI 48823",42.757468,-84.47475,Pet Adoption,FALSE,https://www.constellationcatcafe.com/visit,Appointment,15,1
+Give Purrs a Chance,Berkeley Springs,4.4,24,,"51 Independence St, Berkeley Springs, WV 25411",39.62889,-78.227037,Pet Adoption,FALSE,https://www.givepurrsachance.org/,Appointment,10,1
+Catfeine,Murfreesboro,4.5,21,,"517 Cason Ln, Ste D, Murfreesboro, TN 37128",35.8416063,-86.4400538,"Pet Adoption, Themed Cafes",FALSE,https://www.catfeine.net/?ref=meowaround,Appointment,12,1
+Purrs And Paws Cat Cafe,Victor,4.1,11,,"7979 Pittsford Victor Rd, Victor, NY 14564",43.029947,-77.443714,Cafes,FALSE,https://lazycatloungeandcafe.com/reservations,Appointment,10,0
+Nine Lives Cat Lounge & Adoption Center,Joplin,5,34,,"2201 E 7th St, Joplin, MO 64801",37.08402270339115,-94.49036039,Community Service/Non-Profit,FALSE,https://www.ninelivescatlounge.com/?ref=meowaround,Appointment,160,0
+The Tipsy Tabby,Newmarket,3.6,19,,"90 Main St, Newmarket, NH 03857",43.07966,-70.93613,"Desserts, Coffee & Tea",FALSE,https://www.thetipsytabby.com/?ref=meowaround,Appointment,14,0
+KitTea,San Francisco,4.6,1079,$$,"1266 Valencia St, San Francisco, CA 94110",37.75264,-122.4209327,"Pet Adoption, Themed Cafes",FALSE,https://www.kitteasf.com/book-now,Unknown,29,1
+Koneko,New York,3.2,377,$$,"26 Clinton St, New York, NY 10002",40.72044,-73.98412,"Breakfast & Brunch, Desserts, Themed Cafes",FALSE,https://www.konekonyc.com/reservations,Unknown,30,0
+Naughty Cat Cafe,Chattanooga,5,123,$$,"3742 Tennessee Ave, Ste 100, Chattanooga, TN 37409",35.01126,-85.32652,"Coffee & Tea, Animal Shelters, Pet Stores",FALSE,https://www.naughtycatcafe.com/,Appointment,17,1
+Kitty Bubble Cafe & Bar,Columbus,4,62,,"5568 N High St, Columbus, OH 43214",40.07631,-83.01841,Cafes,FALSE,https://kittybubblecafe.com/visit/,Unknown,15,0
+Mac Tabby Cat Cafe,Charlotte,4.8,144,$,"3204 N Davidson St, Charlotte, NC 28205",35.2469972,-80.8054409,Themed Cafes,FALSE,https://www.mactabby.com/,Appointment,12,1
+Seattle Meowtropolitan,Seattle,4.5,456,$$,"1225 N 45th St, Seattle, WA 98103",47.66125,-122.34291,Themed Cafes,FALSE,https://www.seameow.com,Appointment,19,1
+Purrista Cat Cafe,Erie,4.4,10,,"30 W 8th St, Erie, PA 16501",42.1271716,-80.0850618,Themed Cafes,FALSE,https://www.purristacatcafe.com/,Appointment,15,1
+Toe Beans Cat Cafe,Port Hope,2.9,7,,"119 Peter Street, Port Hope, ON L1A 1C5, Canada",43.94937887,-78.28368627,"Animal Shelters, Themed Cafes",FALSE,http://www.toebeanscatcafe.ca/?ref=meowaround,Unknown,10,0
+Fat Cat CafÃÂ©,Tallahassee,4.4,19,,"2901 E Park Ave, Ste 2600, Tallahassee, FL 32301",30.44154877,-84.22875607,Pet Adoption,FALSE,https://www.fatcatcafetally.com/book-online,Appointment,10,1
+Cat Therapy,Santa Barbara,4.6,150,$$,"1213 State St, Ste L, Santa Barbara, CA 93101",34.4233019,-119.7054707,"Pet Adoption, Accessories, Pet Stores",FALSE,https://www.cattherapysb.com/pages/book-now,Appointment,25,1
+Purr Cup Cafe,Raleigh,4.4,48,$,"210 Prospect Ave, Raleigh, NC 27603",35.76308576,-78.648604,"Coffee & Tea, Cafes",FALSE,https://purrcupcafe.com/bookeo,Appointment,12,1
+Mauhaus,Maplewood,4.3,127,$,"3101 Sutton Blvd, Maplewood, MO 63143",38.60802,-90.32082,Themed Cafes,FALSE,https://mauhauscafe.com/reservations-phase-2/,Appointment,13,1
+Purrfect Day Cafe,Covington,4.7,68,,"25 W 8th St, Covington, KY 41011",39.08206392051634,-84.51068016,Cafes,FALSE,https://purrfectdaycafe.com/covington/book-now-2/,Unknown,15,1
+Lucky Cat Cafe and Lounge,Louisville,4.7,33,,"2230 Dundee Rd, Louisville, KY 40205",38.22324426,-85.69338184,"Pet Adoption, Coffee & Tea",TRUE,https://www.luckycatcafe.org/,Unknown,10,1
+Purrfect Day Cat Cafe,Louisville,4.6,106,$$,"1741 Bardstown Rd, Louisville, KY 40205",38.229049,-85.701655,"Coffee & Tea, Bakeries, Beer, Wine & Spirits",FALSE,https://purrfectdaycafe.com/louisville/book-now/,Unknown,15,1
+Cattyshack Cat Cafe,Fort Myers,4.6,102,,"9902 Gulf Coast Main St, Ste D-140, Fort Myers, FL 33913",26.48753,-81.789477,Themed Cafes,FALSE,https://www.cattyshackcafe.com/booknow,Appointment,15,1
+Crooked Tail Cat Cafe,Greensboro,4.7,45,,"604 S Elm St, Greensboro, NC 27406",36.06583661,-79.79092944,"Pet Adoption, Coffee & Tea",FALSE,https://www.crookedtailcatcafe.com/home-gso,Unknown,12,1
+Cat & Craft,Vista,4.7,460,$$,"3211 Business Park Dr, Ste 3B, Vista, CA 92081",33.13366,-117.22929,"Coffee & Tea, Pet Adoption, Gift Shops",FALSE,https://catandcraftcafe.com?ref=meowaround,Appointment,20,1
+Gem City CatfÃÂ©,Dayton,4.8,68,$$,"1513 E 5th St, Dayton, OH 45403",39.75875,-84.17309,"Coffee & Tea, Pet Adoption, Wine Bars",FALSE,http://gemcitycatfe.com/?ref=meowaround,Appointment,10,1
+The Dancing Cat,San Jose,4.8,146,,"702 E Julian St, San Jose, CA 95112",37.34737,-121.87928,"Pet Adoption, Venues & Event Spaces",FALSE,https://www.thedancingcat.org/reservations,Unknown,15,1
+Mini Cat Town,San Jose,4.2,128,,"2200 Eastridge Lp, Ste 1076, San Jose, CA 95122",37.32562879,-121.8139115,"Pet Adoption, Community Service/Non-Profit",FALSE,https://minicattown.org/?ref=meowaround,Appointment,30,0
+ScruffyÃ¢ÂÂs Cafe,Knoxville,4.3,12,,"1015 N Broadway, Knoxville, TN 37917",35.9818591,-83.92327,"Coffee & Tea, Pet Adoption",FALSE,https://www.scruffyscafeknox.com/bookings,Appointment,10.92,1
+Buckminster's Cat Cafe,Buffalo,4.9,59,,"577 Niagara St, Buffalo, NY 14201",42.89964,-78.89013333,"Coffee & Tea, Pet Adoption, Cafes",FALSE,http://www.buckminsterscatcafe.com?ref=meowaround,Appointment,12,1
+Frisky Cat Cafe,St. Augustine,4.6,49,,"1092 S Ponce De Leon Blvd, Ste L, St. Augustine, FL 32084",29.878998,-81.325244,Cafes,FALSE,https://friskycatcafe.com/,Appointment,12,1
+El Jefe Cat Lounge,Tucson,4.2,49,,"3025 N Campbell Ave, Ste 141, Tucson, AZ 85719",32.261893,-110.944546,"Pet Adoption, Pet Stores",FALSE,https://www.eljefecatlounge.com/,Appointment,14,0
+Catopia Cat Cafe,Albuquerque,4.3,47,,"8001 Wyoming Blvd NE, Ste C-5, Albuquerque, NM 87113",35.175078,-106.5608945,Pet Adoption,FALSE,https://www.catopiacatcafe.com/visit,Unknown,12,1
+affoGATO Cat CafÃÂ©,Cleveland,4.4,61,,"761 Starkweather Ave, Cleveland, OH 44113",41.47735,-81.68233,Themed Cafes,FALSE,https://app.acuityscheduling.com/schedule/a06c3b65/category/h)%2520SUNDAY%2520-%2520ALL%2520AGES,Appointment,22,1
+The Kitty Beautiful,Orlando,5,52,$,"360 State Ln, Orlando, FL 32801",28.54685,-81.38035,"Cafes, Coffee & Tea, Pet Adoption",FALSE,http://www.thekittybeautiful.com/,Appointment,14.91,1
+Purrfect Cup,Fredericton,5,4,,"580 Two Nations Crossing, Unit 9, Fredericton, NB E3A 0X9, Canada",45.98248306802737,-66.61323656,"Cafes, Coffee & Tea",FALSE,https://purrfectcup.ca/booking/,Appointment,15,1
+The Biscuit Factory Cat Lounge,Colorado Springs,4.9,9,,"12 S 25th St, Colorado Springs, CO 80904",38.84761203872272,-104.8624843,Themed Cafes,FALSE,https://www.biscuitfactorycat.com/visit-waivers,Appointment,11,1
+The Catio Cat Lounge,Nashville,4.3,45,,"2416 Music Valley Dr, Ste 119, Nashville, TN 37214",36.21998198966718,-86.69704635,"Pet Adoption, Coffee & Tea",FALSE,https://www.thecationashville.com/book,Appointment,15,1
+Sip & Purr Cat CafÃÂ©,Milwaukee,4.2,79,$,"2021 E Ivanhoe Pl, Milwaukee, WI 53202",43.05974638,-87.88506568,"Cafes, Beverage Store",FALSE,https://www.sipandpurr.com/,Appointment,16.18,0
+Tally Cat Cafe,Tallahassee,3.9,64,$,"2218 N Monroe St, Tallahassee, FL 32303",30.46949,-84.28894,"Pet Adoption, Coffee & Tea, Themed Cafes",FALSE,https://www.tallycatcafe.com/reservations,Unknown,14,0
+The Catcade,Chicago,4.5,126,,"624 W Belmont Ave, Chicago, IL 60657",41.94016130355865,-87.64543554,"Animal Shelters, Community Service/Non-Profit",FALSE,http://thecatcade.org/?ref=meowaround,Appointment,20,1
+Denver Cat Company,Denver,3.9,258,$$,"3929 Tennyson St, Denver, CO 80212",39.7717247,-105.0443115,"Coffee & Tea, Pet Adoption, Art Classes",FALSE,https://www.denvercatco.com/book-a-visit,Unknown,15,0
+Whiskers Cat Cafe,Kansas City,4.6,56,,"3705 SW Trafficway, Kansas City, MO 64111",39.05931061,-94.59503308,Themed Cafes,FALSE,https://www.whiskerskc.com/,Unknown,15,1
+Cafe Felin Ma Langue Aux Chats,Quebec City,4.2,38,$,"307 Rue Saint-Paul, Quebec City, QC G1K 3W6, Canada",46.8166,-71.21177,Themed Cafes,FALSE,https://cafemalangueauxchats.ca/,Walk-In,0,0
+El Gato Coffeehouse & Cat Cottage,Houston,4.2,181,$$,"508 Pecore St, Ste A, Houston, TX 77009",29.7904428,-95.3767472,"Pet Adoption, Coffee & Tea",FALSE,https://www.elgatocoffeehouse.com/bookmeow,Appointment,18,0
+The Cafe Meow,Minneapolis,4.1,14,,"3524 Winnetka Ave N, Minneapolis, MN 55427",45.02077,-93.37964,"Themed Cafes, Coffee & Tea",FALSE,https://thecafemeow.com/,Unknown,16.75,0
+Purrmaid Cafe and Adoption Center,Camarillo,4.9,71,,"5800 Santa Rosa Rd, Ste 142, Camarillo, CA 93012",34.22594,-118.98746,"Pet Adoption, Animal Shelters, Venues & Event Spaces",FALSE,https://www.purrmaidcatcafe.com/,Appointment,6,1
+The Charming Cat Cafe,Lewisville,4.7,69,,"2401 S Stemmons Fwy, Ste 1306, Vista Ridge Mall, Lewisville, TX 75067",33.002451,-96.971664,Pet Stores,FALSE,https://thecharmingcatcafe.com/visiting/,Unknown,17,1
+Catnip Cat Cafe,Norfolk,4.6,50,$,"1611-B Colley Ave, Norfolk, VA 23517",36.8689429,-76.29752786,"Pet Adoption, Coffee & Tea, Cafes",FALSE,https://www.cattipper.com/travel/2017/catnip-cat-cafe-virginia.html,Unknown,14,1
+Tree House Humane Society,Chicago,4.2,220,,"7225 N Western Ave, Chicago, IL 60645",42.01299,-87.68982,"Animal Shelters, Pet Adoption, Community Service/Non-Profit",FALSE,http://www.treehouseanimals.org/?ref=meowaround,Appointment,10,0
+The Casual Cat Cafe,Richland Hills,4.6,63,,"7264 Glenview Dr, Richland Hills, TX 76180",32.82353,-97.22488,"Pet Stores, Pet Adoption, Pet Boarding",FALSE,https://www.thecasualcatcafe.com/book-an-appointment,Unknown,15,1
+Catfecito,"MÃÂ©xico, D.F.",5,1,,"Baja California 266, Col. HipÃÂ³dromo Condesa, 06100 MÃÂ©xico, D.F., Mexico",19.40571,-99.17048,"Desserts, Coffee & Tea",FALSE,https://gatogazzu.org/,Unknown,15,1
+Rahway Kitty Hall,Rahway,5,14,,"209 West Main St, Rahway, NJ 07065",40.61104152,-74.27676301,Pet Adoption,FALSE,http://rahwaykittyhall.com/,Unknown,15,1
+Cat Cafe on Whyte,Edmonton,4.2,47,$$,"10111-82 Avenue NW, Edmonton, AB T6E 1Z5, Canada",53.5177886,-113.4918968,"Coffee & Tea, Pet Adoption",FALSE,https://www.catcafeonwhyte.com/blank-page-1,Unknown,16.99,0
+Good Luck Cat Cafe,Fort Lauderdale,4.6,56,$,"901 Progresso Dr, Ste 202, Fort Lauderdale, FL 33304",26.1349,-80.1411,"Pet Services, Themed Cafes",FALSE,https://ladyluckanimalrescue.com/,Appointment,0,1
+Kzoo Cat Cafe,Kalamazoo,2.9,29,,"4221 S Westnedge Ave, Kalamazoo, MI 49008",42.24873705994945,-85.5892406,Themed Cafes,FALSE,http://www.kzoocatcafe.com/?ref=meowaround,Appointment,15,0
+Regal Cat Cafe,Calgary,3.9,42,$$,"303 10 Street Northwest, Calgary, AB T2N 1V8, Canada",51.05417279,-114.0862005,"Coffee & Tea, Pet Adoption, Themed Cafes",FALSE,https://www.regalcatcafe.com/reservation,Unknown,12,0
+Tiny Lions Lounge and Adoption Center,Ann Arbor,4.4,46,,"5245 Jackson Rd, Ste A1, Ann Arbor, MI 48103",42.287287,-83.833936,"Animal Shelters, Pet Adoption, Yoga",FALSE,https://tiny-lions-lounge-and-adoption-center.square.site/product/tiny-lions-reservations-1-/165,Unknown,15,1
+Happy Cat Cafe,Grand Rapids,4.3,44,$$,"447 S Division Ave S, Grand Rapids, MI 49503",42.954571,-85.66782195,"Coffee & Tea, Themed Cafes, Pet Adoption",FALSE,https://www.happycatgr.com/stayandplay,Unknown,13,1
+The Great Catsby,Spring,5,1,,"303 Main St, Spirit Quest Ctr, Spring, TX 77373",30.09282408,-95.41725587,Pet Adoption,FALSE,https://www.facebook.com/pg/TheGreatCatsbyTX?ref=meowaround,Unknown,7,1
+Le Cat Cafe,Philadelphia,4.6,58,,"2713 W Girard Ave, Philadelphia, PA 19130",39.97446,-75.1809,"Pet Adoption, Community Service/Non-Profit, Animal Shelters",FALSE,https://lecatcafe.org/scheduling/,Unknown,17,1
+River Kitty Cat Cafe,Evansville,3.9,60,$,"226 Main St, Evansville, IN 47708",37.97114,-87.5726,"Themed Cafes, Wine Bars",FALSE,https://www.riverkittycatcafe.org/reservations,Unknown,10,0
+Brooklyn Cat Cafe,Brooklyn,3.8,183,,"76 Montague St, Brooklyn, NY 11201",40.69525738622316,-73.9964344,"Pet Adoption, Animal Shelters, Community Service/Non-Profit",FALSE,https://catcafebk.com/reservations/,Unknown,24,0
+Catfe Lounge,Ferndale,4.6,34,,"686 Livernois St, Ferndale, MI 48220",42.4519,-83.142186,"Animal Shelters, Pet Adoption, Community Service/Non-Profit",FALSE,https://catfelounge.com,Appointment,15,1
+My Kitty Cafe,Guelph,4,43,$,"117 Wyndham Street N, Guelph, ON N1H 4E9, Canada",43.54697081,-80.24987428,"Pet Adoption, Pet Stores, Themed Cafes",FALSE,https://mykittycafe.com/booking/,Unknown,13,0
+CafÃÂ© Chat l'Heureux,Montreal,4.2,129,$$,"172 Avenue Duluth Est, Montreal, QC H2W 1H3, Canada",45.51859441,-73.57776854,"Vegetarian, Sandwiches, Themed Cafes",FALSE,https://cafechatlheureux.com/fr,Walk-In,0,0
+The Cat Cafe,San Diego,3.5,574,$$,"302 Island Ave, Ste 101, San Diego, CA 92101",32.710745,-117.161623,"Coffee & Tea, Themed Cafes, Pet Adoption",FALSE,https://www.catcafesd.com/,Unknown,23.32,0
+Tinker's Cat Cafe,Salt Lake City,4,138,$,"302 E 900th S, Salt Lake City, UT 84111",40.7494631,-111.8822669,"Coffee & Tea, Themed Cafes",FALSE,http://www.tinkerscatcafe.com/?ref=meowaround,Appointment,9,0
+Kitty Brew Cat Cafe,Mason,4.6,66,$$,"721 Reading Rd, Mason, OH 45040",39.35102152030051,-84.32384771,"Pet Adoption, Cafes, Coffee & Tea",FALSE,https://kittybrew.com/,Unknown,13,1
+CatCafe Lounge,Los Angeles,4.3,222,$$,"1736 S Sepulveda Blvd, Los Angeles, CA 90025",34.04674371121387,-118.4430067,"Community Service/Non-Profit, Pet Adoption, Themed Cafes",FALSE,https://www.catcafelounge.com/,Appointment,35,1
+NEKO: A Cat Cafe,,3.8,4,,"1130 Cornwall Ave, Bellingham, WA 98225",,,,,https://www.nekocatcafe.com/reservations-bellingham,Appointment,16,0
+NEKO: A Cat Cafe,Seattle,4.6,328,$$,"519 E Pine St, Seattle, WA 98122",47.6151,-122.32483,Themed Cafes,FALSE,https://nekocatcafe.com,Unknown,16,1
+Crumbs & Whiskers - Kitten & Cat Cafe,Los Angeles,4.6,677,$$,"7924 Melrose Ave, Los Angeles, CA 90046",34.0835863,-118.3624014,"Coffee & Tea, Pet Adoption, Themed Cafes",FALSE,https://crumbsandwhiskers.com/appointments-la,Appointment,40,1
+PHX Cat Cafe,Phoenix,4.4,155,,"147 E Garfield St, Phoenix, AZ 85004",33.45748461606831,-112.0716057,"Pet Adoption, Pet Training",FALSE,https://phxcatcafe.org/visit/,Unknown,16,1
+Orlando Cat Cafe,Clermont,3.9,237,$$,"532 Cagan Park Ave, Ste 201-202, Clermont, FL 34714",28.35423,-81.6778,"Animal Shelters, Coffee & Tea, Breakfast & Brunch",FALSE,https://www.orlandocatcafe.com/reservations-2/,Unknown,12,0
+Nine Lives Cat Cafe,Indianapolis,4.2,191,$$,"1315 Shelby St, Ste 1, Indianapolis, IN 46203",39.74956,-86.13942,"Coffee & Tea, Pet Adoption, Gift Shops",FALSE,https://ninelivescatcafe.com/indianapolis-fountain-square-nine-lives-cat-cafe-book-now,Unknown,17,0
+Meow Parlour,New York,3.9,316,,"43 Essex St, New York, NY 10002",40.716371,-73.989649,Animal Shelters,FALSE,https://www.meowparlour.com/reservation,Appointment,22,0
+Bastet Cat CafÃÂ©,Tijuana,3.8,4,$,"Calle Ignacio Zaragoza 8270, Col. Centro, 22000 Tijuana, Baja California, Mexico",32.52722592,-117.0352889,"Coffee & Tea, Animal Shelters",FALSE,https://www.facebook.com/bastetcatcafe/?ref=meowaround,Unknown,11,0
+Catfe,Vancouver,4.6,117,$$,"88 West Pender Street, Unit 2035, International Village Mall, Vancouver, BC V6B 6N9, Canada",49.28029,-123.10675,"Cafes, Coffee & Tea, Pet Adoption",FALSE,https://www.catfe.ca/reservations,Unknown,16.75,1
+Crumbs & Whiskers - Kitten & Cat Cafe,"Washington, DC",4.6,240,,"3109 M St NW, Washington, DC 20007",38.90531528056536,-77.0615058,"Pet Adoption, Themed Cafes, Coffee & Tea",FALSE,https://crumbsandwhiskers.com/appointments-dc,Appointment,40,1
+Pounce Cat Cafe,,4.9,295,,"404 W. Broughton Street
+Savannah, GA 31401",,,,FALSE,https://www.pouncecatcafe.com/savannah,Appointment,17,1
+Pounce Cat Cafe,Charleston,4.6,244,$,"283 Meeting St, Charleston, SC 29401",32.78455353,-79.93312073,"Pet Adoption, Wine Bars, Coffee & Tea",FALSE,https://www.pouncecatcafe.com/,Appointment,17,1
+Cat Town,Oakland,4.3,386,,"2869 Broadway, Oakland, CA 94611",37.81742032908896,-122.2634841,"Animal Shelters, Community Service/Non-Profit, Pet Adoption",FALSE,https://www.cattownoakland.org/reservations,Appointment,12,1
+Treetops Kitty Cafe,Kennett Square,4.5,12,,"305 W State St, Unit 3, Kennett Square, PA 19348",39.846578208813234,-75.71496223,"Pet Adoption, Community Service/Non-Profit, Pet Stores",FALSE,https://treetopskittycafe.com/reservations,Appointment,17,1
+Kokomo Humane Society Cat CafÃ©,,5,20,,"729 E. Hoffer St.
+Kokomo, Indiana, United States, 46902",,,CafÃ©,FALSE,https://kokomohumane.org/cat-cafe/,Appointment,0,1
+Lady Dinah's Cat Emporium,,4.3,2005,,"152-154 Bethnal Green Rd
+London, United Kingdom, E2 6DG",,,,FALSE,https://ecom.roller.app/ladydinahscatemporium/catcafelondonbooking/en/products?date=2025-06-14,Appointment,21.15,1
