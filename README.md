@@ -1,3 +1,5 @@
+Education SGP and Proficiency Lab: Analyzed the relationship between SGP (student growth percentile) and Proficiency, with practice pulling from specific parameters: SGP >=                                      66, spring window testing for Proficiency, proficiency levels 1 and 2 only; Ran a Spearman correlation test, cross tabulation, and                                             developed a Power BI dashboard to report in depth on the results.
+
 Capstone 1: predicts the likelihood of Fullfillment based on literacy rates, recorded across  countries, using a regression analysis. The data was collected from                          Kaggle and World Health Organization's database. This project showcases my ability to perform an insightful regressional analysis on a topic 
             that reaches into my social science interests. 
 
